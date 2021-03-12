@@ -1,0 +1,43 @@
+body {
+	text-align: left;
+	background-color: rgba(82, 136, 100, 0.2);
+}
+
+.etapes {
+	text-align: right;
+}
+
+.frame {
+	text-align: justify;
+	padding-right: 200px;
+	padding-left: 200px;
+	font-family: ui-monospace;
+	font-size: large; 
+}
+
+h1 {
+	font-family: 'Tangerine', cursive;
+	font-size: 5em;
+	text-align: center;
+}
+
+.image-choregraphes {
+  	display: flex;
+  	justify-content: space-around;
+  	align-items: center;
+}
+
+.taille-img1 {
+	width: 20vw;
+}
+
+.taille-img2 {
+	width: 20vw;
+}
+
+
+.titre2 {
+	color: green;
+}	
+
+		
